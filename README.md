@@ -3,6 +3,9 @@
 
 InstaBurst, a fast and interactive brute force tool that can simultaneously attack multiple Instagram accounts, using multiple wordlists; all while staying anonymous.
 
+### Notice
+Use this [program](https://github.com/Pure-L0G1C/Instagram) instead, it's much faster
+
 ### Requirements
   - Kali Linux 2.0
   - Python V2.7
